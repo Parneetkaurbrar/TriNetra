@@ -52,3 +52,22 @@
 {"level":"info","message":"Processing image: image-1730836116741-818983867.jpg","timestamp":"2024-11-06 01:18:36"}
 {"level":"info","message":"OCR Processing completed. Text length: 52, Average confidence: 0","timestamp":"2024-11-06 01:18:37"}
 {"level":"info","message":"::1 - - [05/Nov/2024:19:48:38 +0000] \"POST /api/process-image HTTP/1.1\" 200 173 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\"","timestamp":"2024-11-06 01:18:38"}
+{"level":"info","message":"Server running on port 3001 in development mode","timestamp":"2024-11-06 11:43:48"}
+{"level":"info","message":"Server running on port 3001 in development mode","timestamp":"2024-11-06 11:45:37"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-06 11:45:47"}
+{"level":"info","message":"Processing image: image-1730873958714-513806519.jpeg","timestamp":"2024-11-06 11:49:18"}
+{"level":"info","message":"OCR Processing completed. Text length: 52, Average confidence: 0","timestamp":"2024-11-06 11:49:24"}
+{"level":"info","message":"::1 - - [06/Nov/2024:06:19:25 +0000] \"POST /api/process-image HTTP/1.1\" 200 173 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15\"","timestamp":"2024-11-06 11:49:25"}
+{"level":"info","message":"Server running on port 3001 in development mode","timestamp":"2024-11-06 11:53:15"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-06 11:53:27"}
+{"level":"info","message":"Processing image: image-1730874271630-338614779.jpeg","timestamp":"2024-11-06 11:54:31"}
+{"level":"info","message":"OCR Processing completed. Text length: 52, Average confidence: 0","timestamp":"2024-11-06 11:54:38"}
+{"level":"info","message":"::1 - - [06/Nov/2024:06:24:38 +0000] \"POST /api/process-image HTTP/1.1\" 200 173 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15\"","timestamp":"2024-11-06 11:54:38"}
+{"level":"info","message":"Server running on port 3001 in development mode","timestamp":"2024-11-06 12:33:24"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-11-06 12:33:27"}
+{"level":"info","message":"Processing image: image-1730876631701-1941167.jpeg","timestamp":"2024-11-06 12:33:51"}
+{"level":"info","message":"OCR Processing completed. Text length: 52, Average confidence: 0","timestamp":"2024-11-06 12:33:52"}
+{"level":"info","message":"::1 - - [06/Nov/2024:07:03:53 +0000] \"POST /api/process-image HTTP/1.1\" 200 173 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15\"","timestamp":"2024-11-06 12:33:53"}
+{"level":"info","message":"Processing image: image-1730876810293-318446048.jpg","timestamp":"2024-11-06 12:36:50"}
+{"level":"info","message":"OCR Processing completed. Text length: 74, Average confidence: 0","timestamp":"2024-11-06 12:36:51"}
+{"level":"info","message":"::1 - - [06/Nov/2024:07:06:51 +0000] \"POST /api/process-image HTTP/1.1\" 200 197 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15\"","timestamp":"2024-11-06 12:36:51"}
